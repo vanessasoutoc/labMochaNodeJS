@@ -1,0 +1,16 @@
+{
+  "name": "labmochanodejs",
+  "version": "1.0.0",
+  "description": "Test in NodeJS with Mocha and Pipelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "author": "Vanessa Souto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
