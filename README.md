@@ -1,3 +1,3 @@
-# Laboratório de Testes com Mocha em NodeJS
+# Mocha Testing Laboratory
 
 ### npm test
