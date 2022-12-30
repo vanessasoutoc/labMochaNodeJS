@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "request": "^2.88.0"
   }
 }
